@@ -1,5 +1,5 @@
 {
-  "name": "website",
+  "name": "mywebsite",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,16 +8,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/heart-rotting/website.git"
+    "url": "git+https://github.com/heart-rotting/mywebsite.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "type": "commonjs",
+  "type": "module",
   "bugs": {
-    "url": "https://github.com/heart-rotting/website/issues"
+    "url": "https://github.com/heart-rotting/mywebsite/issues"
   },
-  "homepage": "https://github.com/heart-rotting/website#readme",
+  "homepage": "https://github.com/heart-rotting/mywebsite#readme",
   "dependencies": {
     "@11ty/eleventy": "^3.1.2"
   }
