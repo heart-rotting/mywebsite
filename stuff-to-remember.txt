@@ -1,2 +1,0 @@
-Run eleventy: npx @11ty/eleventy
-Start hot reloading local web server: npx @11ty/eleventy --serve
